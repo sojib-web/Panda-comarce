@@ -21,3 +21,48 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1{
+    background-color: blueviolet;
+    padding: 10px 30px; 
+    border-radius: 10px;
+}
+.cat2{
+    background-color: burlywood;
+    padding: 10px 30px; 
+    border-radius: 10px;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.container h5{
+    color: black;
+    font-weight: 700;
+}
+.shoes img{
+    width: 100%;
+}
+.shoes h1{
+    color: black;
+    font-weight: 700;
+}
+
+#contact{
+    height: 300px;
+
+}
+footer{
+    text-align: center;
+}
